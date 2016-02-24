@@ -28,8 +28,9 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "http://deanattali.com"
+  Software: "software"
+  About the lab: "aboutus"
+  #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
 
