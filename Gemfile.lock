@@ -133,4 +133,8 @@ PLATFORMS
 DEPENDENCIES
   execjs
   github-pages
+  jekyll-paginate
   therubyracer
+
+BUNDLED WITH
+   1.11.2
