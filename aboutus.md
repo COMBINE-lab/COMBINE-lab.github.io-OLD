@@ -27,7 +27,7 @@ Rob Patro
 #### Ph.D. Students
  * Laraib Malik
  * [Hirak Sarkar](https://sites.google.com/a/cs.stonybrook.edu/hirak/)
- * [Avi Srivastava](http://keyavi.github.io/)
+ * [Avi Srivastava](http://k3yavi.github.io/)
 
 #### MS Students
  * Nitish Gupta
