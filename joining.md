@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-title: Joining the lab
 ---
 # Are you interested in joining the COMBINE-lab?
 
@@ -10,7 +9,7 @@ Great! Computational biology is an exciting field of research which lies in the 
 
 ## Are you an MS student interested in doing a 523/524 project or a thesis?
 
-  1. You might want to have a look at our GitHub organization https://github.com/COMBINE-lab/ and the related papers, to get an idea for the flavor of problems we tackle and the type of areas in which we are interested.
+  1. You might want to have a look at our [GitHub organization](https://github.com/COMBINE-lab/) and the related papers, to get an idea for the flavor of problems we tackle and the type of areas in which we are interested.
   
   2. Sign up for CSE549. this course gives a perfect opportunity for both the student and lab members to know each other and find out if the collaboration would work out or not. If you don't already have an extensive background in computational biology, and you haven't taken CSE549, then I will not approve a 523 / 524 project.
   
@@ -18,7 +17,7 @@ Great! Computational biology is an exciting field of research which lies in the 
 
 ## Are you a Ph.D. student?
 
-  1. *Same as above:* You might want to have a look at our GitHub organization https://github.com/COMBINE-lab/ and the related papers, to get an idea for the flavor of problems we tackle and the type of areas in which we are interested.
+  1. *Same as above:* You might want to have a look at our [GitHub organization](https://github.com/COMBINE-lab/) and the related papers, to get an idea for the flavor of problems we tackle and the type of areas in which we are interested.
 
   2. *Same as above:* Sign up for CSE549. this course gives a perfect opportunity for both the student and lab members to know each other and find out if the collaboration would work out or not. If you don't already have an extensive background in computational biology, and you haven't taken CSE549, then please wait until you've satisfied this requirement to ask about joining the lab.
   
