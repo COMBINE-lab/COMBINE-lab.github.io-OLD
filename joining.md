@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-title: joining.md
 ---
 # Are you interested in joining the COMBINE-lab?
 
