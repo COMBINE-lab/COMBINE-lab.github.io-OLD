@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Joining the lab
 ---
 # Are you interested in joining the COMBINE-lab?
 
