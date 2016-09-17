@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Us 
-subtitle: Better Biology through Better Algorithms 
+title: About Us
+subtitle: Better Biology through Better Algorithms
+published: true
 ---
 
 The COMBINE lab was created in the fall of 2014, when [Rob Patro](http://www.robpatro.com) joined the Computer Science Department at Stony Brook University.  The lab has since grown considerably.  Learn more about us below!
@@ -24,10 +25,12 @@ The research interests of our lab broadly span many areas of computational biolo
 #### Lab Director
 Rob Patro
 
-#### Ph.D. Students
+#### Ph.D. Students (in alphabetical order)
  * Laraib Malik
  * [Hirak Sarkar](https://sites.google.com/a/cs.stonybrook.edu/hirak/)
  * [Avi Srivastava](http://k3yavi.github.io/)
+ * Mohsen Zakeri
+
 
 #### MS Students
  * Nitish Gupta
