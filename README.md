@@ -36,12 +36,12 @@ If you need a bit of help or have comments, feel free to [contact me](http://dea
 - You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `johnsmith.github.io`.  
 - It would be helpful to understand what Markdown is and how to write it. Markdown is just a way to take a piece of text and format it to look a little nicer.  For example, this whole instruction set that you're reading is written in markdown - it's just text with some words being bold/larger/part of bullet points. I recommend taking 5 minutes to learn markdown [with this amazingly easy yet useful tutorial](http://markdowntutorial.com/).
 
-## Build your website in 3 steps
+## Build your own website using 3 easy steps with the help of Github
 
 Getting started is *literally* as easy as 1-2-3 :smile:   
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. You might need to wait a few seconds until the "video" gets back to its beginning.
 
-![Installation steps](img/install-steps.gif)
+![Installation steps] : Its easy to install in any pc, laptops and Mac also! (img/install-steps.gif)
 
 ### 1. Fork this repository 
 
@@ -96,7 +96,7 @@ You can look at the top of [`aboutme.md`](./aboutme.md) or [`index.html`](./inde
 **Important takeaway: always add the YAML front matter to every page, which is two lines with three dashes. If you have any parameters, they go between the two lines.**    
 If you don't include YAML then your file will not use the template.
 
-## Features
+## Important Features
 
 #### Mobile-first
 **Beautiful Jekyll** is designed to look great on both large-screen and small-screen (mobile) devices. Load up your site on your phone and your gigantic iMac, and the site will work well on both, though it will look slightly different.
